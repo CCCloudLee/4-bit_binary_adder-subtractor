@@ -1,0 +1,36 @@
+{C:/Users/e9408/Desktop/HW1 E94081149/HW1-1/testbench.v} {1 {vlog -work work -stats=none {C:/Users/e9408/Desktop/HW1 E94081149/HW1-1/testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} {C:/Users/e9408/Desktop/HW1 E94081149/HW1-1/4-bit_XOR.v} {1 {vlog -work work -stats=none {C:/Users/e9408/Desktop/HW1 E94081149/HW1-1/4-bit_XOR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module four_bit_XOR
+
+Top level modules:
+	four_bit_XOR
+
+} {} {}} {C:/Users/e9408/Desktop/HW1 E94081149/HW1-1/4-bit_add_sub.v} {1 {vlog -work work -stats=none {C:/Users/e9408/Desktop/HW1 E94081149/HW1-1/4-bit_add_sub.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module add_Sub_4bit
+
+Top level modules:
+	add_Sub_4bit
+
+} {} {}} {C:/Users/e9408/Desktop/HW1 E94081149/HW1-1/4-bit_full_adder.v} {1 {vlog -work work -stats=none {C:/Users/e9408/Desktop/HW1 E94081149/HW1-1/4-bit_full_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module four_bit_full_adder
+
+Top level modules:
+	four_bit_full_adder
+
+} {} {}} {C:/Users/e9408/Desktop/HW1 E94081149/HW1-1/1-bit_full_adder.v} {1 {vlog -work work -stats=none {C:/Users/e9408/Desktop/HW1 E94081149/HW1-1/1-bit_full_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module one_bit_full_adder
+
+Top level modules:
+	one_bit_full_adder
+
+} {} {}}

@@ -1,0 +1,11 @@
+//???_E94084016
+//function: implement a 1-bit adder&substractor 
+module one_bit_full_adder ( s, Cout, a, b, Cin );
+
+	input a, b, Cin;
+	output Cout, s;
+
+	assign s = a ^ b ^ Cin;
+	assign Cout = (a & b) | (Cin & (a ^ b));
+
+endmodule 
